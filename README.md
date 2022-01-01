@@ -5,7 +5,7 @@
 ```java
 public class AboutMe {
     public static void main(String[] args) {
-        String user = "KUSALL INDUWARA KULARATHNE";
+        String user = "KUSAL INDUWARA KULARATHNE";
         String current_edu = "IJSE";
         String currently_learning = "Web Development";
         String fun_fact = "I like to so much make others smile to do crazy things";
